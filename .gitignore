@@ -27,7 +27,6 @@ build/Release
 node_modules
 
 # don't commit compiled files
-lib
 test-lib
 dist
 npm
@@ -38,5 +37,5 @@ yarn.lock
 package-lock.json
 
 # flow
-!flow-typed/npm 
+!flow-typed/npm
 
